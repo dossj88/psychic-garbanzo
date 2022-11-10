@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #7ba3cb;
 }
 
 .wrapper {
@@ -28,6 +28,8 @@ header {
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
+  background-color: rgb(112, 133, 171);
+  
 }
 
 .card {
