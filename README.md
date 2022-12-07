@@ -10,4 +10,8 @@ During this project I learned how to input functions and if statements into java
 
 To use this password generator, simply click the generate password button, follow the promps, and then copy your new password.
 
+## Website link
+
+https://dossj88.github.io/psychic-garbanzo/
+
 
